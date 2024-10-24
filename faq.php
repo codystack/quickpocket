@@ -174,7 +174,7 @@ include "./components/navbar.php";
                 </div>
             </div>
         </section>
-    </div>
 
-    <?php include "./components/cta.php"; ?>
+        <?php include "./components/cta.php"; ?>
+        
 <?php include "./components/footer.php"; ?>

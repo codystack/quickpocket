@@ -2271,7 +2271,7 @@ footer .download_side .app_btn li a img {
 }
 
 .footer_bottom .ft_inner {
-    /* display: flex; */
+    display: flex;
     justify-content: space-between;
     padding: 20px 0;
 }
@@ -3976,7 +3976,7 @@ footer .download_side .app_btn li a img {
     border-radius: 0;
     border-bottom: 1px solid #999ca6;
     padding-left: 0;
-    background-color: : var(--light-yellow);
+    background-color: var(--light-yellow);
 }
 
 .signup_section .form_block .form_side form .form-group {
