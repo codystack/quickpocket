@@ -98,4 +98,6 @@ include "./components/navbar.php";
             </div>
         </div>
 
-<?php include "./components/footer.php"; ?>    
+    </div>
+    
+<?php include "./components/footer.php"; ?>
