@@ -2,18 +2,18 @@
         <div class="footer_overlay"> <img src="images/overlay-bg1.svg" alt="img"> </div>
           <div class="container">
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-6 mx-auto text-center">
                 <div class="logo_side">
                   <div class="logo">
                       <a href="#">
                           <img src="images/logo-light.svg" width="250" alt="Logo">
                       </a>
                   </div>
-                  <ul class="contact_info">
-                    <li><a href="mailto:hello@quickpocket.com">hello@quickpocket.com</a></li>
-                    <li><a href="tel:+2348061360063">+234 806-136-0063</a></li>
-                  </ul>
-                  <ul class="social_media">
+                  <div class="logo">
+                    <a href="mailto:hello@quickpocket.com" class="text-white">hello@quickpocket.com &nbsp; | &nbsp;</a>
+                    <a href="tel:+2348061360063" class="text-white">+234 806-136-0063</a>
+                  </div>
+                  <ul class="social_media logo">
                       <li><a href="#"><i class="icofont-facebook"></i></a></li>
                       <li><a href="#"><i class="icofont-twitter"></i></a></li>
                       <li><a href="#"><i class="icofont-instagram"></i></a></li>
