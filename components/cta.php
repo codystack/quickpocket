@@ -4,30 +4,24 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <!-- task text -->
                     <div class="task_text">
-                    <div class="section_title white_text" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
-                        <span class="title_badge">Download</span>
-                        <h2>Our app is available for
-                        Android & iOS</h2>
-                        <p>
-                        Lorem Ipsum is simply dummy text of the printing
-                        indus orem Ipsum has been the industrys.
-                        </p>
-                    </div>
-                    <!-- app buttons -->
-                    <ul class="app_btn" data-aos="fade-up" data-aos-duration="1500">
-                        <li>
-                        <a href="#">
-                            <img class="blue_img" src="images/black_google_play.png" alt="image">
-                        </a>
-                        </li>
-                        <li>
-                        <a href="#">
-                            <img class="blue_img" src="images/black_appstore.png" alt="image">
-                        </a>
-                        </li>
-                    </ul>
+                        <div class="section_title white_text" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
+                            <span class="title_badge">Download</span>
+                            <h2>Our app is available for Android & iOS</h2>
+                            <p>Download the Quick Pocket app now and get approved appointment in minutes!</p>
+                        </div>
+                        <ul class="app_btn" data-aos="fade-up" data-aos-duration="1500">
+                            <li>
+                            <a href="#">
+                                <img class="blue_img" src="images/black_google_play.png" alt="image">
+                            </a>
+                            </li>
+                            <li>
+                            <a href="#">
+                                <img class="blue_img" src="images/black_appstore.png" alt="image">
+                            </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-md-6">
