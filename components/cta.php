@@ -1,4 +1,4 @@
-    <section class="row_am download_app">
+    <section class="row_am download_app" id="appDownload">
         <div class="task_block" data-aos="fade-up" data-aos-duration="1500">
             <div class="dotes_blue"><img src="images/blue_dotes.png" alt="image"></div>
 

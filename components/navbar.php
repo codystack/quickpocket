@@ -34,7 +34,7 @@
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <div class="btn_block">
-                                <a class="nav-link dark_btn" href="contact.html">Download</a>
+                                <a class="nav-link dark_btn" href="#appDownload">Download</a>
                                 <div class="btn_bottom"></div>
                             </div>
                         </li>

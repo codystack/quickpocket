@@ -13,12 +13,12 @@
                     <a href="mailto:hello@quickpocket.com" class="text-white">hello@quickpocket.com &nbsp; | &nbsp;</a>
                     <a href="tel:+2348061360063" class="text-white">+234 806-136-0063</a>
                   </div>
-                  <ul class="social_media logo">
+                  <!-- <ul class="social_media logo">
                       <li><a href="#"><i class="icofont-facebook"></i></a></li>
                       <li><a href="#"><i class="icofont-twitter"></i></a></li>
                       <li><a href="#"><i class="icofont-instagram"></i></a></li>
                       <li><a href="#"><i class="icofont-pinterest"></i></a></li>
-                  </ul>
+                  </ul> -->
                 </div>
               </div>
             </div>
