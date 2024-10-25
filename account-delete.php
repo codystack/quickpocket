@@ -40,7 +40,7 @@ include "./components/header.php";
                                     </div>
                                 </div>
                                 <div class="btn_block">
-                                    <button class="btn puprple_btn ml-0">Sign Up Now</button>
+                                    <button class="btn puprple_btn ml-0">Continue</button>
                                     <div class="btn_bottom"></div>
                                 </div>
                             </form>
