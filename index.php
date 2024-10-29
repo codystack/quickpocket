@@ -28,7 +28,7 @@ include "./components/navbar.php";
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://apps.apple.com/app/quick-pocket/id6737280083">
                   <img class="blue_img" src="images/appstorebtn.png" alt="image">
                 </a>
               </li>
