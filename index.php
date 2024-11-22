@@ -23,7 +23,7 @@ include "./components/navbar.php";
 
             <ul class="app_btn">
               <li>
-                <a href="#">
+                <a href="https://play.google.com/store/apps/details?id=com.quick_pocket.app&pcampaignid=web_share">
                   <img class="blue_img" src="images/googleplay.png" alt="image">
                 </a>
               </li>
@@ -46,7 +46,7 @@ include "./components/navbar.php";
               <div id="frmae_slider" class="owl-carousel owl-theme">
                 <div class="item">
                   <div class="slider_img">
-                    <img src="images/bannerScreen2.png" alt="image">
+                    <img src="images/banner.png" alt="image">
                   </div>
                 </div>
                 <div class="item">

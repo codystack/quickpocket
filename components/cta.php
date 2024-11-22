@@ -12,7 +12,7 @@
                         </div>
                         <ul class="app_btn" data-aos="fade-up" data-aos-duration="1500">
                             <li>
-                            <a href="#">
+                            <a href="https://play.google.com/store/apps/details?id=com.quick_pocket.app&pcampaignid=web_share">
                                 <img class="blue_img" src="images/black_google_play.png" alt="image">
                             </a>
                             </li>
