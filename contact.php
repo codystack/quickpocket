@@ -18,7 +18,7 @@ include "./components/navbar.php";
                             <img src="images/mail_icon.png" alt="image">
                         </span>
                         <span class="lable">Email us</span>
-                        <a href="mailto:hello@quickpocket.com">hello@quickpocket.com</a>
+                        <a href="mailto:hello@quickpocket.com">hello@quickpocket.co</a>
                     </li>
                     <li data-aos="fade-up" data-aos-duration="1500" data-aos-delay="150">
                         <span class="icon">
