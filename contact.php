@@ -25,7 +25,7 @@ include "./components/navbar.php";
                             <img src="images/phone_icon.png" alt="image">
                         </span>
                         <span class="lable">Call us</span>
-                        <a href="tel:+2348061360063">+234 806-136-0063</a>
+                        <a href="tel:+2348137306404">+234 813-730-6404</a>
                     </li>
                     <li data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300">
                         <span class="icon">
